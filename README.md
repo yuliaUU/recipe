@@ -1,1 +1,1 @@
-# My Favoirite recipe
+# My Favorite Recipe

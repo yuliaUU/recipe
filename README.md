@@ -1,4 +1,4 @@
-### This is a LOCAL change
+
 # Title: My Favorite Recipe
 line 2 changed remotely
 
@@ -8,4 +8,3 @@ Source: www....com
 
 "Enjoy my recipe!"
 
-last line changed locally

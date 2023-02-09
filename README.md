@@ -1,4 +1,4 @@
-### This is a REMOTE change :O
+### This is a REMOTE change  :O
 # Title: My Favorite Recipe
 line 2 changed remotely
 

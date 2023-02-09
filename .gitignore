@@ -1,4 +1,4 @@
 **/*.log
-*checkpoint.md
+**/*checkpoint.md
 .DS_Store
 .ipynb_checkpoints/

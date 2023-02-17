@@ -1,11 +1,14 @@
-### This is  a LOCAL change !!!!
 # Title: My Favorite Recipe
 line 2 changed remotely
 
-[Banana Bread](/recipe.png)
 ## Description of a recipe
 
 Source: www....com
 
-"Enjoy my recipe!"
-### This is  a REMOTE change !
+Ingredients
+
+1. item 1
+2. Item 2
+3. item 3
+
+

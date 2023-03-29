@@ -1,4 +1,4 @@
-Ingredients:
+# Ingredients:
 
 - 3 ripe bananas, mashed
 - 1/3 cup melted butter

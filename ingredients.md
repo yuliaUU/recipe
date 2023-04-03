@@ -9,4 +9,4 @@
 - 1 teaspoon vanilla extract
 - 1 1/2 cups all-purpose flour
 
-Enjoy my recipe! :)
+Enjoy my recipe!! :)

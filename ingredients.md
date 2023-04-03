@@ -1,4 +1,4 @@
-Let's begin!
+
 # Ingredients:
 
 - 3 ripe bananas, mashed

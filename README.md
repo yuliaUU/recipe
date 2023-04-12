@@ -10,4 +10,4 @@
 
 Whether you prefer your bread studded with nuts, chocolate chips, or raisins, or simply love the pure, sweet taste of bananas, this recipe is sure to become a staple in your baking repertoire. So preheat your oven, grab your mixing bowl, and let's get started!"
 
-![my recipe](/recipe.jpg "Banana Bread")
+![my recipe](recipe.jpg "Banana Bread")
